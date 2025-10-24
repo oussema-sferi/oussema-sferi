@@ -1,29 +1,19 @@
 # Hey, I'm Ouss 👋
+![PHP](https://img.shields.io/badge/PHP-8.3-blue?logo=php)
+![Symfony](https://img.shields.io/badge/Symfony-6.4-black?logo=symfony)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=githubactions)
 
 I’m a **Full-Stack PHP & Symfony Developer** from Tunisia 🇹🇳.  
 I build clean, scalable apps — from **SaaS dashboards** and **automation tools** to **high-traffic funnels** — with a strong focus on **Docker, CI/CD, testing, and performance**.
 
-- 🔭 Currently improving: **SDS Consort** (Symfony 6.4 refactor, QA, tests)
-- 🚀 Shipping: **Upwork Tracker App** — job alerts + AI-generated proposals
-- 💡 Learning: **Laravel**, **Firebase Auth**, smarter **DevOps** workflows
+- 🔭 Currently improving: **various Symfony projects on Upwork and beyond** — enhancing performance, maintainability, and testing (logic refactor, QA, tests).
+- 🧩 Developing: **new features and integrations** such as advanced dashboards, API endpoints, background jobs, and custom admin modules for client applications.
+- 🚀 Shipping: **Upwork Tracker App** — a private internal tool I built for personal use to track new Upwork jobs in real time.  
+  It automatically fetches job data, sends instant Telegram/email alerts, and generates AI-based proposals using OpenAI’s API — all within a Dockerized Symfony environment.
 
 ### 🧰 Tech I love
 PHP • Symfony • Laravel • MySQL/PostgreSQL • Docker • Nginx • GitHub Actions • JavaScript • Twig • Bootstrap/Tailwind
-
-### 📌 Featured projects
-- **Upwork Tracker App** — Symfony 6 + Docker + Telegram/email alerts + OpenAI  
-  Demo: https://upwork-tracker.oussema-sferi.dev
-- **ClickTijara (WIP)** — Multilingual SaaS for FB/IG sellers (orders, invoices, analytics)
-- **SDS Consort** — Enterprise app refactor (QA tools, static analysis, CI/CD)
-
-### 🖼️ Screenshots / Demos
-> (Add 1–3 images that show a dashboard or key UI.)
-> Example:  
-> ![Upwork Tracker App](./assets/upwork-tracker-dashboard.png)
-
-### 📊 Stats (because graphs are pretty)
-![Oussama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oussema-sferi&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussema-sferi&layout=compact&theme=github_dark)
 
 ### 🌍 Find me
 - Portfolio: https://oussema-sferi.dev
