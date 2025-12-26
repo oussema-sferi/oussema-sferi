@@ -4,7 +4,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=githubactions)
 
-I’m a **Full-Stack PHP & Symfony Developer** from Tunisia 🇹🇳.  
+I’m a **Full-Stack PHP, Symfony & Wordpress Developer** from Tunisia 🇹🇳.  
 I build clean, scalable apps — from **SaaS dashboards** and **automation tools** to **high-traffic funnels** — with a strong focus on **Docker, CI/CD, testing, and performance**.
 
 - 🔭 Currently improving: **various Symfony projects on Upwork and beyond** — enhancing performance, maintainability, and testing (logic refactor, QA, tests).
